@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 찌개에 채수를 더하자
 
 cptms,s 
+=======
+르탄이의 비법은 버터 dsss
+>>>>>>> feature/jjigae_rtan
