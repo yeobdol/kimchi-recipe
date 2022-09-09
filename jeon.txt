@@ -6,3 +6,6 @@
 5. 잘몰라
 
 amend
+
+
+reset
